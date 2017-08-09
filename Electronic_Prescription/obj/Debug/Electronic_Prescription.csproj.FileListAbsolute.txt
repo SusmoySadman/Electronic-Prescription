@@ -1,0 +1,26 @@
+G:\C#\Electronic_Prescription\Electronic_Prescription\bin\Debug\Electronic_Prescription.exe.config
+G:\C#\Electronic_Prescription\Electronic_Prescription\bin\Debug\Electronic_Prescription.exe
+G:\C#\Electronic_Prescription\Electronic_Prescription\bin\Debug\Electronic_Prescription.pdb
+G:\C#\Electronic_Prescription\Electronic_Prescription\obj\Debug\Electronic_Prescription.csprojResolveAssemblyReference.cache
+G:\C#\Electronic_Prescription\Electronic_Prescription\obj\Debug\Electronic_Prescription.Form1.resources
+G:\C#\Electronic_Prescription\Electronic_Prescription\obj\Debug\Electronic_Prescription.Properties.Resources.resources
+G:\C#\Electronic_Prescription\Electronic_Prescription\obj\Debug\Electronic_Prescription.csproj.GenerateResource.Cache
+G:\C#\Electronic_Prescription\Electronic_Prescription\obj\Debug\Electronic_Prescription.exe
+G:\C#\Electronic_Prescription\Electronic_Prescription\obj\Debug\Electronic_Prescription.pdb
+G:\C#\Electronic_Prescription\Electronic_Prescription\obj\Debug\Electronic_Prescription.Medicine_form.resources
+D:\cse\Spring 17\SD\Project\Dao\Final\Electronic_Prescription_complete2\Electronic_Prescription\bin\Debug\Electronic_Prescription.exe.config
+D:\cse\Spring 17\SD\Project\Dao\Final\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.exe
+D:\cse\Spring 17\SD\Project\Dao\Final\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.pdb
+F:\sush SD\Electronic_Prescription_complete2\Electronic_Prescription\bin\Debug\Electronic_Prescription.exe.config
+F:\sush SD\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.exe
+F:\sush SD\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.pdb
+F:\sush SD\Electronic_Prescription_complete2\Electronic_Prescription\bin\Debug\Electronic_Prescription.exe
+F:\sush SD\Electronic_Prescription_complete2\Electronic_Prescription\bin\Debug\Electronic_Prescription.pdb
+F:\sush SD\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.csprojResolveAssemblyReference.cache
+F:\sush SD\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.Form1.resources
+F:\sush SD\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.Medicine_form.resources
+F:\sush SD\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.Properties.Resources.resources
+F:\sush SD\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.csproj.GenerateResource.Cache
+D:\cse\Spring 17\SD\Project\Dao\Final\Last\Electronic_Prescription_full_final\Electronic_Prescription_complete2\Electronic_Prescription\bin\Debug\Electronic_Prescription.exe.config
+D:\cse\Spring 17\SD\Project\Dao\Final\Last\Electronic_Prescription_full_final\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.exe
+D:\cse\Spring 17\SD\Project\Dao\Final\Last\Electronic_Prescription_full_final\Electronic_Prescription_complete2\Electronic_Prescription\obj\Debug\Electronic_Prescription.pdb
